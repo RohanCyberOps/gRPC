@@ -21,7 +21,7 @@ Ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/chrohangurjar1/grpc-k8s-go-project.git
+git clone https://github.com/RohanCyberOps/grpc-k8s-go-project.git
 cd grpc-k8s-go-project
 ```
 
